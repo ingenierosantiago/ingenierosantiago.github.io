@@ -279,7 +279,7 @@ strong, small {
     position: absolute;
     overflow: hidden;
     /*background: url(../images/1920X1080.gif) #333 40% 40%;*/
-    background: url(../images/bw/8.jpg) #333 40% 40%;
+    background: url(../images/foto.jpg) #333 40% 40%;
     background-size: cover;
 }
 
@@ -1651,7 +1651,7 @@ ul.info-list li strong {
 
 @media (max-width:800px) and (max-height:600px) {
 	.home {
-		background: url(../images/bw/8.jpg) #333 30% 30%;
+		background: url(../images/foto.jpg) #333 30% 30%;
 		overflow-y: scroll;
 	}
 
