@@ -1629,7 +1629,7 @@ ul.info-list li strong {
 
 @media (max-width:800px) and (max-height:600px) {
 	.home {
-		background: url(../images/foto.jpg) #333 30% 30%;
+		background: url(../images/bg12.jpeg) #333 30% 30%;
 		overflow-y: scroll;
 	}
 
@@ -1701,7 +1701,7 @@ ul.info-list li strong {
 @media (max-width:768px) {
 
 	.home {
-		background: url(../images/bw/99.jpg) #333 30% 30%;
+		background: url(../images/bg12.jpeg) #333 30% 30%;
 	}
 
 	.name-block,
@@ -1790,7 +1790,8 @@ ul.info-list li strong {
     h2.menu-item {
         font-size: 20px;
         line-height: 2em;
-		margin: 25px 0 25px 40px;
+	margin: 25px 0 25px 40px;
+	text-align:right;
     }
 	h2.menu-item:before {
 		position: absolute;
